@@ -1,0 +1,23 @@
+dataset: 'h36m'
+t_his: 25
+t_pred: 100
+batch_size: 64
+num_epoch: 1001
+num_data_sample: 50000
+num_val_data_sample: 5000
+lr: 3.e-4
+n_pre: 20
+multimodal_path: ./data/data_multi_modal/t_his25_1_thre0.500_t_pred100_thre0.100_filtered_dlow.npz
+data_candi_path: ./data/data_multi_modal/data_candi_t_his25_t_pred100_skiprate20.npz
+padding: 'LastFrame'
+Complete: True
+noise_steps: 1000
+ddim_timesteps: 100
+scheduler: 'Cosine' # 'Cosine' 'Linear' 'Sqrt' 'Sigmoid'
+num_layers: 8
+num_heads: 8
+latent_dims: 512
+dropout: 0.2
+mod_train: 0.8
+mod_test: 1.0
+dct_norm_enable: False

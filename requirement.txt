@@ -1,0 +1,10 @@
+matplotlib==3.4.2
+numpy==1.21.0
+opencv_python==4.2.0.34
+pandas==1.0.3
+PyYAML==6.0
+scipy==1.4.1
+tensorflow
+tensorboardX==2.6
+tqdm==4.46.0
+vpython==7.6.4
