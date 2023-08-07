@@ -4,7 +4,7 @@
 
 "HumanMAC: 基于掩码图像补全的人体动作预测"开源代码。
 
-[陈凌灏](https://lhchen.top/)\*<sup>1</sup>, 张嘉伟*<sup>2</sup>, [李晔文](https://scholar.google.com/citations?user=W5796yEAAAAJ)<sup>3</sup>, [庞义人](https://www.linkedin.com/in/yrpang/)<sup>2</sup>, [夏晓波](https://xiaoboxia.github.io/)<sup>4</sup>, [刘同亮](https://tongliang-liu.github.io/)<sup>4</sup>
+[陈凌灏](https://lhchen.top/)\*<sup>1</sup>, [张嘉伟](https://zjwsite.github.io/)*<sup>2</sup>, [李晔文](https://scholar.google.com/citations?user=W5796yEAAAAJ)<sup>3</sup>, [庞义人](https://www.linkedin.com/in/yrpang/)<sup>2</sup>, [夏晓波](https://xiaoboxia.github.io/)<sup>4</sup>, [刘同亮](https://tongliang-liu.github.io/)<sup>4</sup>
 
 <sup>1</sup>清华大学, <sup>2</sup>西安电子科技大学, <sup>3</sup>南洋理工大学, <sup>4</sup>悉尼大学
 
