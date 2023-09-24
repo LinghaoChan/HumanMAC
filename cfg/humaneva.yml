@@ -19,5 +19,5 @@ num_heads: 8
 latent_dims: 512
 dropout: 0.2
 mod_train: 1.
-mod_test: 1.
+mod_test: 0.5
 dct_norm_enable: False
