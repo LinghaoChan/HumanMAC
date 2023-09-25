@@ -12,9 +12,9 @@ Code for "HumanMAC: Masked Motion Completion for Human Motion Prediction".
 
 ## News
 
-**[2022/07/14]: HumanMAC is accepted by ICCV 2023!**
+**[2023/07/14]: HumanMAC is accepted by ICCV 2023!**
 
-**[2022/03/26]: HumanMAC code released!**
+**[2023/03/26]: HumanMAC code released!**
 
 ## Preparation
 
