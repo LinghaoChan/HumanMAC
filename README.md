@@ -156,7 +156,7 @@ This code is distributed under an [MIT LICENSE](https://github.com/LinghaoChan/H
 Please consider citing our paper if you find it helpful in your research:
 
 ```
-@article{chen2023humanmac,
+@inproceedings{chen2023humanmac,
 	title={HumanMAC: Masked Motion Completion for Human Motion Prediction},
 	author={Chen, Ling-Hao and Zhang, Jiawei and Li, Yewen and Pang, Yiren and Xia, Xiaobo and Liu, Tongliang},
 	journal={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
