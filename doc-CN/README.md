@@ -158,7 +158,7 @@ python main.py --cfg humaneva --mode eval --ckpt ./checkpoints/humaneva_ckpt.pt
 如果您觉得我们的工作对您的研究有帮助，请考虑引用我们的论文：
 
 ```
-@article{chen2023humanmac,
+@inproceedings{chen2023humanmac,
 	title={HumanMAC: Masked Motion Completion for Human Motion Prediction},
 	author={Chen, Ling-Hao and Zhang, Jiawei and Li, Yewen and Pang, Yiren and Xia, Xiaobo and Liu, Tongliang},
 	journal={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
