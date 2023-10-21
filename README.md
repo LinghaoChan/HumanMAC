@@ -12,6 +12,8 @@ Code for "HumanMAC: Masked Motion Completion for Human Motion Prediction".
 
 ## News
 
+**[2023/10/21]: Check out my latest work [HumanTOMATO](https://lhchen.top/HumanTOMATO), the FIRST attempt to generate whole-body motions with text description.**
+
 **[2023/10/17]: Check out my latest open-source project [UniMoCap](https://github.com/LinghaoChan/UniMoCap), a unifier for mocap-based text-motion datasets.**
 
 **[2023/07/14]: HumanMAC is accepted by ICCV 2023!**
