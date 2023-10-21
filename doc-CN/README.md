@@ -30,7 +30,7 @@
 
 **用于零样本预测实验的[AMASS](https://amass.is.tue.mpg.de/)数据集:**
 
-我们将AMASS数据集骨骼重定向到Human3.6M数据集的骨架上。这里我们只提供AMASS动作的一个子集。重定向后的数据集在[Google Drive](https://drive.google.com/file/d/1ysXf0rpxNqx3FScIf5hkk7JIyM_54aLW/view) ([百度网盘](https://pan.baidu.com/s/1vljNdr7CwBgYlF2QX8S5EA?pwd=qnue))下载。并将.npy文件放在`./data`目录下。
+我们将AMASS数据集骨骼重定向到Human3.6M数据集的骨架上。这里我们只提供AMASS动作的一个子集。重定向后的数据集在[Google Drive](https://drive.google.com/file/d/1ysXf0rpxNqx3FScIf5hkk7JIyM_54aLW/view) ([百度网盘](https://pan.baidu.com/s/1vljNdr7CwBgYlF2QX8S5EA?pwd=qnue))下载。并将.npy文件放在`./data`目录下。重定向过程的细节详见 [`./motion-retargeting`](./motion-retargeting).
 
 最后的`./data`目录结构如下所示：
 

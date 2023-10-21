@@ -28,7 +28,7 @@ We adopt the data preprocessing from [GSPS](https://github.com/wei-mao-2019/gsps
 
 **Dataset for zero-shot experiments on [AMASS](https://amass.is.tue.mpg.de/)**:
 
-We retarget skeletons in the AMASS dataset to the Human3.6M dataset. We provide a small subset retargeted AMASS motion here. The retargeted sub-dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1ysXf0rpxNqx3FScIf5hkk7JIyM_54aLW/view) ([Baidu Netdisk](https://pan.baidu.com/s/1vljNdr7CwBgYlF2QX8S5EA?pwd=qnue)). And put it in the `./data` directory.
+We retarget skeletons in the AMASS dataset to the Human3.6M dataset. We provide a small subset retargeted AMASS motion here. The retargeted sub-dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1ysXf0rpxNqx3FScIf5hkk7JIyM_54aLW/view) ([Baidu Netdisk](https://pan.baidu.com/s/1vljNdr7CwBgYlF2QX8S5EA?pwd=qnue)). And put it in the `./data` directory. The retargeting process is detailed in [`./motion-retargeting`](./motion-retargeting).
 
 Final `./data` directory structure is shown below:
 
