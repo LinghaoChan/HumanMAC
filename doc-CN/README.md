@@ -14,7 +14,9 @@
 
 ## 更新信息
 
-**[2023/10/21]: 欢迎查看最新工作[HumanTOMATO](https://lhchen.top/HumanTOMATO)，首个文本驱动全身动作生成系统.**
+****[2023/12/19]: HumanMAC在[Interactive Humanoid](https://arxiv.org/pdf/2312.08983.pdf)中作为动作预测模块使用。****
+
+**[2023/10/21]: 欢迎查看最新工作[HumanTOMATO](https://lhchen.top/HumanTOMATO)，首个文本驱动全身动作生成系统。**
 
 **[2023/10/17]: 欢迎查看最新的开源项目[UniMoCap](https://github.com/LinghaoChan/UniMoCap)，统一基于动捕的文本-动作数据集工具。**
 
