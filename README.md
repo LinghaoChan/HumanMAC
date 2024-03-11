@@ -163,10 +163,11 @@ Please consider citing our paper if you find it helpful in your research:
 
 ```
 @inproceedings{chen2023humanmac,
-	title={HumanMAC: Masked Motion Completion for Human Motion Prediction},
-	author={Chen, Ling-Hao and Zhang, Jiawei and Li, Yewen and Pang, Yiren and Xia, Xiaobo and Liu, Tongliang},
-	journal={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-	year={2023}
+  title={Humanmac: Masked motion completion for human motion prediction},
+  author={Chen, Ling-Hao and Zhang, Jiawei and Li, Yewen and Pang, Yiren and Xia, Xiaobo and Liu, Tongliang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9544--9555},
+  year={2023}
 }
 ```
 
