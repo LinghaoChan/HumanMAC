@@ -14,7 +14,9 @@
 
 ## 更新信息
 
-****[2023/12/19]: HumanMAC在[Interactive Humanoid](https://arxiv.org/pdf/2312.08983.pdf)中作为动作预测模块使用。****
+**[2024/05/06]: 我们发布了最快的实时可控动作生成模型[MotionLCM](https://github.com/Dai-Wenxun/MotionLCM)。**
+
+**[2023/12/19]: HumanMAC在[Interactive Humanoid](https://arxiv.org/pdf/2312.08983.pdf)中作为动作预测模块使用。**
 
 **[2023/10/21]: 欢迎查看最新工作[HumanTOMATO](https://lhchen.top/HumanTOMATO)，首个文本驱动全身动作生成系统。**
 
